@@ -3,7 +3,7 @@ This is a mod for the game Circle Empires.
 If you enjoy this mod, consider joining the [UMF Framework discord!](https://discordapp.com/invite/FMrhTnH)
 
 ## Functionality
-This mod is pretty straight foward; it removes the intro video that Circle Empires plays on startup.
+test
 
 ## Installation
 ### Automatic installation:
