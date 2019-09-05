@@ -1,0 +1,8 @@
+This mod adds a cheat menu. 
+
+Current features:
+- Edit how much wood, food, and gold you start with upon creating a new game.
+
+Planned features:
+- Edit your wood, food, and gold amounts whilst playing
+- Suggestions? Send me a message @SteampunkEngineer#4147. I'm always hanging around in the UMF discord server
