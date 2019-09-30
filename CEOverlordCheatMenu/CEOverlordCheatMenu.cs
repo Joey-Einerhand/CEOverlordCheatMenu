@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace CEOverlordCheatMenu
 {
-    [UMFHarmony(1)] //Set this to the number of harmony patches in your mod.
+    [UMFHarmony(2)] //Set this to the number of harmony patches in your mod.
     [UMFScript]
     class CEOverlordCheatMenu : MonoBehaviour
     {

@@ -6,3 +6,7 @@ Current features:
 Planned features:
 - Edit your wood, food, and gold amounts whilst playing
 - Suggestions? Send me a message @SteampunkEngineer#4147. I'm always hanging around in the UMF discord server
+
+Changelog:
+	5-Sept-2019:
+		Added settings to edit how much wood, food, gold you start with when creating a new game
