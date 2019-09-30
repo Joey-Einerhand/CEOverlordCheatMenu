@@ -6,7 +6,7 @@ namespace CEOverlordCheatMenu
 {
     public class CEOverlordCheatMenuConfig
     {
-        private static readonly string configVersion = "0.1";
+        private static readonly string configVersion = "1.0";
 
         //Add your config vars here.
         public static bool enableUnlimitedResources;
