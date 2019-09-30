@@ -1,13 +1,23 @@
-# CircleEmpires-NoIntroVideo-Mod
+# CircleEmpires-OverlordCheatMenu-mod
 This is a mod for the game Circle Empires.
 If you enjoy this mod, consider joining the [UMF Framework discord!](https://discordapp.com/invite/FMrhTnH)
 
 ## Functionality
-This mod is pretty straight foward; it removes the intro video that Circle Empires plays on startup.
+This mod adds options to edit various sections of the game for the player's benefit.
+
+### Current features:
+- Edit your starting wood/food/gold when creating a new game
+
+### Planned features:
+- Edit your wood/food/gold amounts mid-game
 
 ## Installation
 ### Automatic installation:
---ToDo--: Enter link!
+1. Install [UMF Framework](https://umodframework.com/wiki/install)
+2. Make sure to select your Circle Empires folder as your game folder!
+3. Install it with the help of this mod's ---TODO: ENTER LINK--- [UMF mod page]()
+4. follow steps #5 and #6 of the Manual Installation instructions down below
+5. Launch the game and enjoy!
 
 ### Manual installation:
 1. Install [UMF Framework](https://umodframework.com/wiki/install)
@@ -31,16 +41,11 @@ If you want to edit or contribute to this project, do the following:
 
 ## Uninstalling
 ### If you used manual installation:
---ToDo--: Enter instruction!
+Remove the .umfmod file from the *\uModFramework\Mods folder.
 ### If you used automatic installation:
 To uninstall the mod, remove it with the help of the UMF website (https://umodframework.com/mods)
 
 
 ## Changelog
-04/Sep/2019 --	V1.0.1	-- Startup fix
-	Added an if-statement which helps loading Circle Empires.
-		There was a bug that, when launching Circle Empires for the first time in a while, the mod would take a long time to load.
-
-02/Sep/2019 --	V1.0	-- Hello world!
-	NoIntroVideo 1.0 released. First mod I've ever released, hooray!
-	
+05/Sep/2019 -- V0.1 -- Hello World!
+	Version 0.1 released. Added functionality to change the amount of wood/food/gold you get when starting a new game
