@@ -6,10 +6,11 @@ If you enjoy this mod, consider joining the [UMF Framework discord!](https://dis
 This mod adds options to edit various sections of the game for the player's benefit.
 
 ### Current features:
-- Edit your starting wood/food/gold when creating a new game
+- Enabling Infinite resources
 
 ### Planned features:
-- Edit your wood/food/gold amounts mid-game
+- Instantly winning a match
+- Suggestions? Send me a message @SteampunkEngineer#4147. I'm always hanging around in the UMF discord server
 
 ## Installation
 ### Automatic installation:
@@ -47,5 +48,7 @@ To uninstall the mod, remove it with the help of the UMF website (https://umodfr
 
 
 ## Changelog
+30/sept/2019 -- V1.0 -- Infi
+	Removed all previous functionality. Instead added the ability to enable unlimited resources.
 05/Sep/2019 -- V0.1 -- Hello World!
 	Version 0.1 released. Added functionality to change the amount of wood/food/gold you get when starting a new game
