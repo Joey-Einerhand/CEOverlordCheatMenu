@@ -1,3 +1,6 @@
+# Abandoned project. Feel free to adopt.
+## Any version different from this github's page release page is not endorsed by me.
+
 # CircleEmpires-OverlordCheatMenu-mod
 This is a mod for the game Circle Empires.
 If you enjoy this mod, consider joining the [UMF Framework discord!](https://discordapp.com/invite/FMrhTnH)
