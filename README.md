@@ -11,7 +11,6 @@ This mod adds options to edit various sections of the game for the player's bene
 
 ### Planned features:
 - Instantly winning a match
-- Suggestions? Send me a message @SteampunkEngineer#4147. I'm always hanging around in the UMF discord server
 
 ## Installation
 ### Automatic installation:
